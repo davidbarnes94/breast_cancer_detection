@@ -1,4 +1,4 @@
-# Breast cancer Detection
+# Breast Cancer Detection
 
 **Project Status: In Progress**
 
